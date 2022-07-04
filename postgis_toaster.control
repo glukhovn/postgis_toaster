@@ -1,0 +1,5 @@
+# postgis_toaster extension
+comment = 'postgis_toaster - custom toaster that saves postgis header into inline area'
+default_version = '1.0'
+module_pathname = '$libdir/postgis_toaster'
+relocatable = true
